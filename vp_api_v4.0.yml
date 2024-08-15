@@ -10,8 +10,8 @@ info:
     url: http://www.apache.org/licenses/LICENSE-2.0.html
   version: v4.0
 servers:
-  - url: https://rdnexusdev.molgeniscloud.org/cv2/BeaconAPI
-    description: Development server
+  - url: https://www448.lamp.le.ac.uk/erknet/BeaconAPI/83
+    description: ERKNet Beacon server
 security: 
   - oidcToken: []
   - apiAuth: []
